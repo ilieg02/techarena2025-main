@@ -1,0 +1,1018 @@
+head,relation,tail
+Ancient Egypt,rdf:type,Civilization
+Ancient Greece,rdf:type,Civilization
+Roman Empire,rdf:type,Civilization
+Byzantine Empire,rdf:type,Civilization
+Ottoman Empire,rdf:type,Civilization
+Mughal Empire,rdf:type,Civilization
+Maurya Empire,rdf:type,Civilization
+Gupta Empire,rdf:type,Civilization
+Han Dynasty,rdf:type,Civilization
+Qing Dynasty,rdf:type,Civilization
+Ming Dynasty,rdf:type,Civilization
+Song Dynasty,rdf:type,Civilization
+Aztec Empire,rdf:type,Civilization
+Inca Empire,rdf:type,Civilization
+Maya Civilization,rdf:type,Civilization
+Babylonian Empire,rdf:type,Civilization
+Persian Empire,rdf:type,Civilization
+Achaemenid Empire,rdf:type,Civilization
+Sumerian Civilization,rdf:type,Civilization
+Phoenician Civilization,rdf:type,Civilization
+Bronze Age,rdf:type,HistoricalPeriod
+Iron Age,rdf:type,HistoricalPeriod
+Classical Antiquity,rdf:type,HistoricalPeriod
+Middle Ages,rdf:type,HistoricalPeriod
+Early Modern Period,rdf:type,HistoricalPeriod
+Modern Era,rdf:type,HistoricalPeriod
+Nile Valley,rdf:type,Region
+Mesopotamia,rdf:type,Region
+Indus Valley,rdf:type,Region
+Yellow River Valley,rdf:type,Region
+Mediterranean Basin,rdf:type,Region
+Anatolia,rdf:type,Region
+Italian Peninsula,rdf:type,Region
+Iberian Peninsula,rdf:type,Region
+Balkan Peninsula,rdf:type,Region
+Arabian Peninsula,rdf:type,Region
+Mesoamerica,rdf:type,Region
+Andes Mountains,rdf:type,Region
+Central Asia,rdf:type,Region
+East Asia,rdf:type,Region
+South Asia,rdf:type,Region
+Western Europe,rdf:type,Region
+Eastern Europe,rdf:type,Region
+Cleopatra,rdf:type,Person
+Julius Caesar,rdf:type,Person
+Augustus,rdf:type,Person
+Genghis Khan,rdf:type,Person
+Kublai Khan,rdf:type,Person
+Ashoka,rdf:type,Person
+Akbar,rdf:type,Person
+Suleiman the Magnificent,rdf:type,Person
+Alexander the Great,rdf:type,Person
+Napoleon Bonaparte,rdf:type,Person
+George Washington,rdf:type,Person
+Abraham Lincoln,rdf:type,Person
+Mahatma Gandhi,rdf:type,Person
+Nelson Mandela,rdf:type,Person
+Winston Churchill,rdf:type,Person
+Charlemagne,rdf:type,Person
+Cyrus the Great,rdf:type,Person
+Darius the Great,rdf:type,Person
+Ramses II,rdf:type,Person
+Pericles,rdf:type,Person
+Hammurabi,rdf:type,Person
+Marcus Aurelius,rdf:type,Person
+Constantine the Great,rdf:type,Person
+Joan of Arc,rdf:type,Person
+Tokugawa Ieyasu,rdf:type,Person
+Queen Victoria,rdf:type,Person
+Louis XIV,rdf:type,Person
+Peter the Great,rdf:type,Person
+Catherine the Great,rdf:type,Person
+Simon Bolivar,rdf:type,Person
+Mustafa Kemal Ataturk,rdf:type,Person
+Ho Chi Minh,rdf:type,Person
+Chiang Kai-shek,rdf:type,Person
+Mao Zedong,rdf:type,Person
+Sun Yat-sen,rdf:type,Person
+Franklin D. Roosevelt,rdf:type,Person
+Theodore Roosevelt,rdf:type,Person
+Adolf Hitler,rdf:type,Person
+Joseph Stalin,rdf:type,Person
+Leon Trotsky,rdf:type,Person
+John F. Kennedy,rdf:type,Person
+Martin Luther King Jr.,rdf:type,Person
+Che Guevara,rdf:type,Person
+Fidel Castro,rdf:type,Person
+Imhotep,rdf:type,Person
+Tutankhamun,rdf:type,Person
+Nefertiti,rdf:type,Person
+Hatshepsut,rdf:type,Person
+Battle of Waterloo,rdf:type,Event
+French Revolution,rdf:type,Event
+American Revolution,rdf:type,Event
+World War I,rdf:type,Event
+World War II,rdf:type,Event
+Fall of Constantinople,rdf:type,Event
+Discovery of America,rdf:type,Event
+Industrial Revolution,rdf:type,Event
+Fall of the Berlin Wall,rdf:type,Event
+Russian Revolution,rdf:type,Event
+Meiji Restoration,rdf:type,Event
+Unification of Germany,rdf:type,Event
+Unification of Italy,rdf:type,Event
+Partition of India,rdf:type,Event
+Signing of Magna Carta,rdf:type,Event
+Crusades,rdf:type,Event
+Peloponnesian War,rdf:type,Event
+Punic Wars,rdf:type,Event
+Hundred Years' War,rdf:type,Event
+Thirty Years' War,rdf:type,Event
+Opium Wars,rdf:type,Event
+Boxer Rebellion,rdf:type,Event
+Taiping Rebellion,rdf:type,Event
+Great Depression,rdf:type,Event
+Moon Landing,rdf:type,Event
+Cuban Missile Crisis,rdf:type,Event
+Vietnam War,rdf:type,Event
+Korean War,rdf:type,Event
+Gulf War,rdf:type,Event
+Iraq War,rdf:type,Event
+Spanish Civil War,rdf:type,Event
+Nine Years' War,rdf:type,Event
+Glorious Revolution,rdf:type,Event
+English Civil War,rdf:type,Event
+First Sino-Japanese War,rdf:type,Event
+War of the Roses,rdf:type,Event
+American Civil War,rdf:type,Event
+Reign of Terror,rdf:type,Event
+Storming of the Bastille,rdf:type,Event
+Ancient Egypt,hasCorePeriod,Bronze Age
+Ancient Egypt,originatedIn,Nile Valley
+Ancient Greece,hasCorePeriod,Iron Age
+Ancient Greece,originatedIn,Mesopotamia
+Roman Empire,hasCorePeriod,Classical Antiquity
+Roman Empire,originatedIn,Indus Valley
+Byzantine Empire,hasCorePeriod,Middle Ages
+Byzantine Empire,originatedIn,Yellow River Valley
+Ottoman Empire,hasCorePeriod,Early Modern Period
+Ottoman Empire,originatedIn,Mediterranean Basin
+Mughal Empire,hasCorePeriod,Modern Era
+Mughal Empire,originatedIn,Anatolia
+Maurya Empire,hasCorePeriod,Bronze Age
+Maurya Empire,originatedIn,Italian Peninsula
+Gupta Empire,hasCorePeriod,Iron Age
+Gupta Empire,originatedIn,Iberian Peninsula
+Han Dynasty,hasCorePeriod,Classical Antiquity
+Han Dynasty,originatedIn,Balkan Peninsula
+Qing Dynasty,hasCorePeriod,Middle Ages
+Qing Dynasty,originatedIn,Arabian Peninsula
+Ming Dynasty,hasCorePeriod,Early Modern Period
+Ming Dynasty,originatedIn,Mesoamerica
+Song Dynasty,hasCorePeriod,Modern Era
+Song Dynasty,originatedIn,Andes Mountains
+Aztec Empire,hasCorePeriod,Bronze Age
+Aztec Empire,originatedIn,Central Asia
+Inca Empire,hasCorePeriod,Iron Age
+Inca Empire,originatedIn,East Asia
+Maya Civilization,hasCorePeriod,Classical Antiquity
+Maya Civilization,originatedIn,South Asia
+Babylonian Empire,hasCorePeriod,Middle Ages
+Babylonian Empire,originatedIn,Western Europe
+Persian Empire,hasCorePeriod,Early Modern Period
+Persian Empire,originatedIn,Eastern Europe
+Achaemenid Empire,hasCorePeriod,Modern Era
+Achaemenid Empire,originatedIn,Nile Valley
+Sumerian Civilization,hasCorePeriod,Bronze Age
+Sumerian Civilization,originatedIn,Mesopotamia
+Phoenician Civilization,hasCorePeriod,Iron Age
+Phoenician Civilization,originatedIn,Indus Valley
+Ancient Egypt,potentiallyActiveInPeriod,Bronze Age
+Ancient Egypt,potentiallyActiveInPeriod,Iron Age
+Ancient Egypt,potentiallyActiveInPeriod,Classical Antiquity
+Ancient Egypt,potentiallyActiveInPeriod,Middle Ages
+Ancient Egypt,potentiallyActiveInPeriod,Early Modern Period
+Ancient Egypt,potentiallyActiveInPeriod,Modern Era
+Ancient Greece,potentiallyActiveInPeriod,Bronze Age
+Ancient Greece,potentiallyActiveInPeriod,Iron Age
+Ancient Greece,potentiallyActiveInPeriod,Classical Antiquity
+Ancient Greece,potentiallyActiveInPeriod,Middle Ages
+Ancient Greece,potentiallyActiveInPeriod,Early Modern Period
+Ancient Greece,potentiallyActiveInPeriod,Modern Era
+Roman Empire,potentiallyActiveInPeriod,Bronze Age
+Roman Empire,potentiallyActiveInPeriod,Iron Age
+Roman Empire,potentiallyActiveInPeriod,Classical Antiquity
+Roman Empire,potentiallyActiveInPeriod,Middle Ages
+Roman Empire,potentiallyActiveInPeriod,Early Modern Period
+Roman Empire,potentiallyActiveInPeriod,Modern Era
+Byzantine Empire,potentiallyActiveInPeriod,Bronze Age
+Byzantine Empire,potentiallyActiveInPeriod,Iron Age
+Byzantine Empire,potentiallyActiveInPeriod,Classical Antiquity
+Byzantine Empire,potentiallyActiveInPeriod,Middle Ages
+Byzantine Empire,potentiallyActiveInPeriod,Early Modern Period
+Byzantine Empire,potentiallyActiveInPeriod,Modern Era
+Ottoman Empire,potentiallyActiveInPeriod,Bronze Age
+Ottoman Empire,potentiallyActiveInPeriod,Iron Age
+Ottoman Empire,potentiallyActiveInPeriod,Classical Antiquity
+Ottoman Empire,potentiallyActiveInPeriod,Middle Ages
+Ottoman Empire,potentiallyActiveInPeriod,Early Modern Period
+Ottoman Empire,potentiallyActiveInPeriod,Modern Era
+Mughal Empire,potentiallyActiveInPeriod,Bronze Age
+Mughal Empire,potentiallyActiveInPeriod,Iron Age
+Mughal Empire,potentiallyActiveInPeriod,Classical Antiquity
+Mughal Empire,potentiallyActiveInPeriod,Middle Ages
+Mughal Empire,potentiallyActiveInPeriod,Early Modern Period
+Mughal Empire,potentiallyActiveInPeriod,Modern Era
+Maurya Empire,potentiallyActiveInPeriod,Bronze Age
+Maurya Empire,potentiallyActiveInPeriod,Iron Age
+Maurya Empire,potentiallyActiveInPeriod,Classical Antiquity
+Maurya Empire,potentiallyActiveInPeriod,Middle Ages
+Maurya Empire,potentiallyActiveInPeriod,Early Modern Period
+Maurya Empire,potentiallyActiveInPeriod,Modern Era
+Gupta Empire,potentiallyActiveInPeriod,Bronze Age
+Gupta Empire,potentiallyActiveInPeriod,Iron Age
+Gupta Empire,potentiallyActiveInPeriod,Classical Antiquity
+Gupta Empire,potentiallyActiveInPeriod,Middle Ages
+Gupta Empire,potentiallyActiveInPeriod,Early Modern Period
+Gupta Empire,potentiallyActiveInPeriod,Modern Era
+Han Dynasty,potentiallyActiveInPeriod,Bronze Age
+Han Dynasty,potentiallyActiveInPeriod,Iron Age
+Han Dynasty,potentiallyActiveInPeriod,Classical Antiquity
+Han Dynasty,potentiallyActiveInPeriod,Middle Ages
+Han Dynasty,potentiallyActiveInPeriod,Early Modern Period
+Han Dynasty,potentiallyActiveInPeriod,Modern Era
+Qing Dynasty,potentiallyActiveInPeriod,Bronze Age
+Qing Dynasty,potentiallyActiveInPeriod,Iron Age
+Qing Dynasty,potentiallyActiveInPeriod,Classical Antiquity
+Qing Dynasty,potentiallyActiveInPeriod,Middle Ages
+Qing Dynasty,potentiallyActiveInPeriod,Early Modern Period
+Qing Dynasty,potentiallyActiveInPeriod,Modern Era
+Ming Dynasty,potentiallyActiveInPeriod,Bronze Age
+Ming Dynasty,potentiallyActiveInPeriod,Iron Age
+Ming Dynasty,potentiallyActiveInPeriod,Classical Antiquity
+Ming Dynasty,potentiallyActiveInPeriod,Middle Ages
+Ming Dynasty,potentiallyActiveInPeriod,Early Modern Period
+Ming Dynasty,potentiallyActiveInPeriod,Modern Era
+Song Dynasty,potentiallyActiveInPeriod,Bronze Age
+Song Dynasty,potentiallyActiveInPeriod,Iron Age
+Song Dynasty,potentiallyActiveInPeriod,Classical Antiquity
+Song Dynasty,potentiallyActiveInPeriod,Middle Ages
+Song Dynasty,potentiallyActiveInPeriod,Early Modern Period
+Song Dynasty,potentiallyActiveInPeriod,Modern Era
+Aztec Empire,potentiallyActiveInPeriod,Bronze Age
+Aztec Empire,potentiallyActiveInPeriod,Iron Age
+Aztec Empire,potentiallyActiveInPeriod,Classical Antiquity
+Aztec Empire,potentiallyActiveInPeriod,Middle Ages
+Aztec Empire,potentiallyActiveInPeriod,Early Modern Period
+Aztec Empire,potentiallyActiveInPeriod,Modern Era
+Inca Empire,potentiallyActiveInPeriod,Bronze Age
+Inca Empire,potentiallyActiveInPeriod,Iron Age
+Inca Empire,potentiallyActiveInPeriod,Classical Antiquity
+Inca Empire,potentiallyActiveInPeriod,Middle Ages
+Inca Empire,potentiallyActiveInPeriod,Early Modern Period
+Inca Empire,potentiallyActiveInPeriod,Modern Era
+Maya Civilization,potentiallyActiveInPeriod,Bronze Age
+Maya Civilization,potentiallyActiveInPeriod,Iron Age
+Maya Civilization,potentiallyActiveInPeriod,Classical Antiquity
+Maya Civilization,potentiallyActiveInPeriod,Middle Ages
+Maya Civilization,potentiallyActiveInPeriod,Early Modern Period
+Maya Civilization,potentiallyActiveInPeriod,Modern Era
+Babylonian Empire,potentiallyActiveInPeriod,Bronze Age
+Babylonian Empire,potentiallyActiveInPeriod,Iron Age
+Babylonian Empire,potentiallyActiveInPeriod,Classical Antiquity
+Babylonian Empire,potentiallyActiveInPeriod,Middle Ages
+Babylonian Empire,potentiallyActiveInPeriod,Early Modern Period
+Babylonian Empire,potentiallyActiveInPeriod,Modern Era
+Persian Empire,potentiallyActiveInPeriod,Bronze Age
+Persian Empire,potentiallyActiveInPeriod,Iron Age
+Persian Empire,potentiallyActiveInPeriod,Classical Antiquity
+Persian Empire,potentiallyActiveInPeriod,Middle Ages
+Persian Empire,potentiallyActiveInPeriod,Early Modern Period
+Persian Empire,potentiallyActiveInPeriod,Modern Era
+Achaemenid Empire,potentiallyActiveInPeriod,Bronze Age
+Achaemenid Empire,potentiallyActiveInPeriod,Iron Age
+Achaemenid Empire,potentiallyActiveInPeriod,Classical Antiquity
+Achaemenid Empire,potentiallyActiveInPeriod,Middle Ages
+Achaemenid Empire,potentiallyActiveInPeriod,Early Modern Period
+Achaemenid Empire,potentiallyActiveInPeriod,Modern Era
+Sumerian Civilization,potentiallyActiveInPeriod,Bronze Age
+Sumerian Civilization,potentiallyActiveInPeriod,Iron Age
+Sumerian Civilization,potentiallyActiveInPeriod,Classical Antiquity
+Sumerian Civilization,potentiallyActiveInPeriod,Middle Ages
+Sumerian Civilization,potentiallyActiveInPeriod,Early Modern Period
+Sumerian Civilization,potentiallyActiveInPeriod,Modern Era
+Phoenician Civilization,potentiallyActiveInPeriod,Bronze Age
+Phoenician Civilization,potentiallyActiveInPeriod,Iron Age
+Phoenician Civilization,potentiallyActiveInPeriod,Classical Antiquity
+Phoenician Civilization,potentiallyActiveInPeriod,Middle Ages
+Phoenician Civilization,potentiallyActiveInPeriod,Early Modern Period
+Phoenician Civilization,potentiallyActiveInPeriod,Modern Era
+Ancient Egypt,influencedRegion,Nile Valley
+Ancient Egypt,influencedRegion,Mesopotamia
+Ancient Egypt,influencedRegion,Indus Valley
+Ancient Egypt,influencedRegion,Yellow River Valley
+Ancient Egypt,influencedRegion,Mediterranean Basin
+Ancient Egypt,influencedRegion,Anatolia
+Ancient Egypt,influencedRegion,Italian Peninsula
+Ancient Egypt,influencedRegion,Iberian Peninsula
+Ancient Egypt,influencedRegion,Balkan Peninsula
+Ancient Egypt,influencedRegion,Arabian Peninsula
+Ancient Egypt,influencedRegion,Mesoamerica
+Ancient Egypt,influencedRegion,Andes Mountains
+Ancient Egypt,influencedRegion,Central Asia
+Ancient Egypt,influencedRegion,East Asia
+Ancient Egypt,influencedRegion,South Asia
+Ancient Egypt,influencedRegion,Western Europe
+Ancient Egypt,influencedRegion,Eastern Europe
+Ancient Greece,influencedRegion,Nile Valley
+Ancient Greece,influencedRegion,Mesopotamia
+Ancient Greece,influencedRegion,Indus Valley
+Ancient Greece,influencedRegion,Yellow River Valley
+Ancient Greece,influencedRegion,Mediterranean Basin
+Ancient Greece,influencedRegion,Anatolia
+Ancient Greece,influencedRegion,Italian Peninsula
+Ancient Greece,influencedRegion,Iberian Peninsula
+Ancient Greece,influencedRegion,Balkan Peninsula
+Ancient Greece,influencedRegion,Arabian Peninsula
+Ancient Greece,influencedRegion,Mesoamerica
+Ancient Greece,influencedRegion,Andes Mountains
+Ancient Greece,influencedRegion,Central Asia
+Ancient Greece,influencedRegion,East Asia
+Ancient Greece,influencedRegion,South Asia
+Ancient Greece,influencedRegion,Western Europe
+Ancient Greece,influencedRegion,Eastern Europe
+Roman Empire,influencedRegion,Nile Valley
+Roman Empire,influencedRegion,Mesopotamia
+Roman Empire,influencedRegion,Indus Valley
+Roman Empire,influencedRegion,Yellow River Valley
+Roman Empire,influencedRegion,Mediterranean Basin
+Roman Empire,influencedRegion,Anatolia
+Roman Empire,influencedRegion,Italian Peninsula
+Roman Empire,influencedRegion,Iberian Peninsula
+Roman Empire,influencedRegion,Balkan Peninsula
+Roman Empire,influencedRegion,Arabian Peninsula
+Roman Empire,influencedRegion,Mesoamerica
+Roman Empire,influencedRegion,Andes Mountains
+Roman Empire,influencedRegion,Central Asia
+Roman Empire,influencedRegion,East Asia
+Roman Empire,influencedRegion,South Asia
+Roman Empire,influencedRegion,Western Europe
+Roman Empire,influencedRegion,Eastern Europe
+Byzantine Empire,influencedRegion,Nile Valley
+Byzantine Empire,influencedRegion,Mesopotamia
+Byzantine Empire,influencedRegion,Indus Valley
+Byzantine Empire,influencedRegion,Yellow River Valley
+Byzantine Empire,influencedRegion,Mediterranean Basin
+Byzantine Empire,influencedRegion,Anatolia
+Byzantine Empire,influencedRegion,Italian Peninsula
+Byzantine Empire,influencedRegion,Iberian Peninsula
+Byzantine Empire,influencedRegion,Balkan Peninsula
+Byzantine Empire,influencedRegion,Arabian Peninsula
+Byzantine Empire,influencedRegion,Mesoamerica
+Byzantine Empire,influencedRegion,Andes Mountains
+Byzantine Empire,influencedRegion,Central Asia
+Byzantine Empire,influencedRegion,East Asia
+Byzantine Empire,influencedRegion,South Asia
+Byzantine Empire,influencedRegion,Western Europe
+Byzantine Empire,influencedRegion,Eastern Europe
+Ottoman Empire,influencedRegion,Nile Valley
+Ottoman Empire,influencedRegion,Mesopotamia
+Ottoman Empire,influencedRegion,Indus Valley
+Ottoman Empire,influencedRegion,Yellow River Valley
+Ottoman Empire,influencedRegion,Mediterranean Basin
+Ottoman Empire,influencedRegion,Anatolia
+Ottoman Empire,influencedRegion,Italian Peninsula
+Ottoman Empire,influencedRegion,Iberian Peninsula
+Ottoman Empire,influencedRegion,Balkan Peninsula
+Ottoman Empire,influencedRegion,Arabian Peninsula
+Ottoman Empire,influencedRegion,Mesoamerica
+Ottoman Empire,influencedRegion,Andes Mountains
+Ottoman Empire,influencedRegion,Central Asia
+Ottoman Empire,influencedRegion,East Asia
+Ottoman Empire,influencedRegion,South Asia
+Ottoman Empire,influencedRegion,Western Europe
+Ottoman Empire,influencedRegion,Eastern Europe
+Mughal Empire,influencedRegion,Nile Valley
+Mughal Empire,influencedRegion,Mesopotamia
+Mughal Empire,influencedRegion,Indus Valley
+Mughal Empire,influencedRegion,Yellow River Valley
+Mughal Empire,influencedRegion,Mediterranean Basin
+Mughal Empire,influencedRegion,Anatolia
+Mughal Empire,influencedRegion,Italian Peninsula
+Mughal Empire,influencedRegion,Iberian Peninsula
+Mughal Empire,influencedRegion,Balkan Peninsula
+Mughal Empire,influencedRegion,Arabian Peninsula
+Mughal Empire,influencedRegion,Mesoamerica
+Mughal Empire,influencedRegion,Andes Mountains
+Mughal Empire,influencedRegion,Central Asia
+Mughal Empire,influencedRegion,East Asia
+Mughal Empire,influencedRegion,South Asia
+Mughal Empire,influencedRegion,Western Europe
+Mughal Empire,influencedRegion,Eastern Europe
+Maurya Empire,influencedRegion,Nile Valley
+Maurya Empire,influencedRegion,Mesopotamia
+Maurya Empire,influencedRegion,Indus Valley
+Maurya Empire,influencedRegion,Yellow River Valley
+Maurya Empire,influencedRegion,Mediterranean Basin
+Maurya Empire,influencedRegion,Anatolia
+Maurya Empire,influencedRegion,Italian Peninsula
+Maurya Empire,influencedRegion,Iberian Peninsula
+Maurya Empire,influencedRegion,Balkan Peninsula
+Maurya Empire,influencedRegion,Arabian Peninsula
+Maurya Empire,influencedRegion,Mesoamerica
+Maurya Empire,influencedRegion,Andes Mountains
+Maurya Empire,influencedRegion,Central Asia
+Maurya Empire,influencedRegion,East Asia
+Maurya Empire,influencedRegion,South Asia
+Maurya Empire,influencedRegion,Western Europe
+Maurya Empire,influencedRegion,Eastern Europe
+Gupta Empire,influencedRegion,Nile Valley
+Gupta Empire,influencedRegion,Mesopotamia
+Gupta Empire,influencedRegion,Indus Valley
+Gupta Empire,influencedRegion,Yellow River Valley
+Gupta Empire,influencedRegion,Mediterranean Basin
+Gupta Empire,influencedRegion,Anatolia
+Gupta Empire,influencedRegion,Italian Peninsula
+Gupta Empire,influencedRegion,Iberian Peninsula
+Gupta Empire,influencedRegion,Balkan Peninsula
+Gupta Empire,influencedRegion,Arabian Peninsula
+Gupta Empire,influencedRegion,Mesoamerica
+Gupta Empire,influencedRegion,Andes Mountains
+Gupta Empire,influencedRegion,Central Asia
+Gupta Empire,influencedRegion,East Asia
+Gupta Empire,influencedRegion,South Asia
+Gupta Empire,influencedRegion,Western Europe
+Gupta Empire,influencedRegion,Eastern Europe
+Han Dynasty,influencedRegion,Nile Valley
+Han Dynasty,influencedRegion,Mesopotamia
+Han Dynasty,influencedRegion,Indus Valley
+Han Dynasty,influencedRegion,Yellow River Valley
+Han Dynasty,influencedRegion,Mediterranean Basin
+Han Dynasty,influencedRegion,Anatolia
+Han Dynasty,influencedRegion,Italian Peninsula
+Han Dynasty,influencedRegion,Iberian Peninsula
+Han Dynasty,influencedRegion,Balkan Peninsula
+Han Dynasty,influencedRegion,Arabian Peninsula
+Han Dynasty,influencedRegion,Mesoamerica
+Han Dynasty,influencedRegion,Andes Mountains
+Han Dynasty,influencedRegion,Central Asia
+Han Dynasty,influencedRegion,East Asia
+Han Dynasty,influencedRegion,South Asia
+Han Dynasty,influencedRegion,Western Europe
+Han Dynasty,influencedRegion,Eastern Europe
+Qing Dynasty,influencedRegion,Nile Valley
+Qing Dynasty,influencedRegion,Mesopotamia
+Qing Dynasty,influencedRegion,Indus Valley
+Qing Dynasty,influencedRegion,Yellow River Valley
+Qing Dynasty,influencedRegion,Mediterranean Basin
+Qing Dynasty,influencedRegion,Anatolia
+Qing Dynasty,influencedRegion,Italian Peninsula
+Qing Dynasty,influencedRegion,Iberian Peninsula
+Qing Dynasty,influencedRegion,Balkan Peninsula
+Qing Dynasty,influencedRegion,Arabian Peninsula
+Qing Dynasty,influencedRegion,Mesoamerica
+Qing Dynasty,influencedRegion,Andes Mountains
+Qing Dynasty,influencedRegion,Central Asia
+Qing Dynasty,influencedRegion,East Asia
+Qing Dynasty,influencedRegion,South Asia
+Qing Dynasty,influencedRegion,Western Europe
+Qing Dynasty,influencedRegion,Eastern Europe
+Ming Dynasty,influencedRegion,Nile Valley
+Ming Dynasty,influencedRegion,Mesopotamia
+Ming Dynasty,influencedRegion,Indus Valley
+Ming Dynasty,influencedRegion,Yellow River Valley
+Ming Dynasty,influencedRegion,Mediterranean Basin
+Ming Dynasty,influencedRegion,Anatolia
+Ming Dynasty,influencedRegion,Italian Peninsula
+Ming Dynasty,influencedRegion,Iberian Peninsula
+Ming Dynasty,influencedRegion,Balkan Peninsula
+Ming Dynasty,influencedRegion,Arabian Peninsula
+Ming Dynasty,influencedRegion,Mesoamerica
+Ming Dynasty,influencedRegion,Andes Mountains
+Ming Dynasty,influencedRegion,Central Asia
+Ming Dynasty,influencedRegion,East Asia
+Ming Dynasty,influencedRegion,South Asia
+Ming Dynasty,influencedRegion,Western Europe
+Ming Dynasty,influencedRegion,Eastern Europe
+Song Dynasty,influencedRegion,Nile Valley
+Song Dynasty,influencedRegion,Mesopotamia
+Song Dynasty,influencedRegion,Indus Valley
+Song Dynasty,influencedRegion,Yellow River Valley
+Song Dynasty,influencedRegion,Mediterranean Basin
+Song Dynasty,influencedRegion,Anatolia
+Song Dynasty,influencedRegion,Italian Peninsula
+Song Dynasty,influencedRegion,Iberian Peninsula
+Song Dynasty,influencedRegion,Balkan Peninsula
+Song Dynasty,influencedRegion,Arabian Peninsula
+Song Dynasty,influencedRegion,Mesoamerica
+Song Dynasty,influencedRegion,Andes Mountains
+Song Dynasty,influencedRegion,Central Asia
+Song Dynasty,influencedRegion,East Asia
+Song Dynasty,influencedRegion,South Asia
+Song Dynasty,influencedRegion,Western Europe
+Song Dynasty,influencedRegion,Eastern Europe
+Aztec Empire,influencedRegion,Nile Valley
+Aztec Empire,influencedRegion,Mesopotamia
+Aztec Empire,influencedRegion,Indus Valley
+Aztec Empire,influencedRegion,Yellow River Valley
+Aztec Empire,influencedRegion,Mediterranean Basin
+Aztec Empire,influencedRegion,Anatolia
+Aztec Empire,influencedRegion,Italian Peninsula
+Aztec Empire,influencedRegion,Iberian Peninsula
+Aztec Empire,influencedRegion,Balkan Peninsula
+Aztec Empire,influencedRegion,Arabian Peninsula
+Aztec Empire,influencedRegion,Mesoamerica
+Aztec Empire,influencedRegion,Andes Mountains
+Aztec Empire,influencedRegion,Central Asia
+Aztec Empire,influencedRegion,East Asia
+Aztec Empire,influencedRegion,South Asia
+Aztec Empire,influencedRegion,Western Europe
+Aztec Empire,influencedRegion,Eastern Europe
+Inca Empire,influencedRegion,Nile Valley
+Inca Empire,influencedRegion,Mesopotamia
+Inca Empire,influencedRegion,Indus Valley
+Inca Empire,influencedRegion,Yellow River Valley
+Inca Empire,influencedRegion,Mediterranean Basin
+Inca Empire,influencedRegion,Anatolia
+Inca Empire,influencedRegion,Italian Peninsula
+Inca Empire,influencedRegion,Iberian Peninsula
+Inca Empire,influencedRegion,Balkan Peninsula
+Inca Empire,influencedRegion,Arabian Peninsula
+Inca Empire,influencedRegion,Mesoamerica
+Inca Empire,influencedRegion,Andes Mountains
+Inca Empire,influencedRegion,Central Asia
+Inca Empire,influencedRegion,East Asia
+Inca Empire,influencedRegion,South Asia
+Inca Empire,influencedRegion,Western Europe
+Inca Empire,influencedRegion,Eastern Europe
+Maya Civilization,influencedRegion,Nile Valley
+Maya Civilization,influencedRegion,Mesopotamia
+Maya Civilization,influencedRegion,Indus Valley
+Maya Civilization,influencedRegion,Yellow River Valley
+Maya Civilization,influencedRegion,Mediterranean Basin
+Maya Civilization,influencedRegion,Anatolia
+Maya Civilization,influencedRegion,Italian Peninsula
+Maya Civilization,influencedRegion,Iberian Peninsula
+Maya Civilization,influencedRegion,Balkan Peninsula
+Maya Civilization,influencedRegion,Arabian Peninsula
+Maya Civilization,influencedRegion,Mesoamerica
+Maya Civilization,influencedRegion,Andes Mountains
+Maya Civilization,influencedRegion,Central Asia
+Maya Civilization,influencedRegion,East Asia
+Maya Civilization,influencedRegion,South Asia
+Maya Civilization,influencedRegion,Western Europe
+Maya Civilization,influencedRegion,Eastern Europe
+Babylonian Empire,influencedRegion,Nile Valley
+Babylonian Empire,influencedRegion,Mesopotamia
+Babylonian Empire,influencedRegion,Indus Valley
+Babylonian Empire,influencedRegion,Yellow River Valley
+Babylonian Empire,influencedRegion,Mediterranean Basin
+Babylonian Empire,influencedRegion,Anatolia
+Babylonian Empire,influencedRegion,Italian Peninsula
+Babylonian Empire,influencedRegion,Iberian Peninsula
+Babylonian Empire,influencedRegion,Balkan Peninsula
+Babylonian Empire,influencedRegion,Arabian Peninsula
+Babylonian Empire,influencedRegion,Mesoamerica
+Babylonian Empire,influencedRegion,Andes Mountains
+Babylonian Empire,influencedRegion,Central Asia
+Babylonian Empire,influencedRegion,East Asia
+Babylonian Empire,influencedRegion,South Asia
+Babylonian Empire,influencedRegion,Western Europe
+Babylonian Empire,influencedRegion,Eastern Europe
+Persian Empire,influencedRegion,Nile Valley
+Persian Empire,influencedRegion,Mesopotamia
+Persian Empire,influencedRegion,Indus Valley
+Persian Empire,influencedRegion,Yellow River Valley
+Persian Empire,influencedRegion,Mediterranean Basin
+Persian Empire,influencedRegion,Anatolia
+Persian Empire,influencedRegion,Italian Peninsula
+Persian Empire,influencedRegion,Iberian Peninsula
+Persian Empire,influencedRegion,Balkan Peninsula
+Persian Empire,influencedRegion,Arabian Peninsula
+Persian Empire,influencedRegion,Mesoamerica
+Persian Empire,influencedRegion,Andes Mountains
+Persian Empire,influencedRegion,Central Asia
+Persian Empire,influencedRegion,East Asia
+Persian Empire,influencedRegion,South Asia
+Persian Empire,influencedRegion,Western Europe
+Persian Empire,influencedRegion,Eastern Europe
+Achaemenid Empire,influencedRegion,Nile Valley
+Achaemenid Empire,influencedRegion,Mesopotamia
+Achaemenid Empire,influencedRegion,Indus Valley
+Achaemenid Empire,influencedRegion,Yellow River Valley
+Achaemenid Empire,influencedRegion,Mediterranean Basin
+Achaemenid Empire,influencedRegion,Anatolia
+Achaemenid Empire,influencedRegion,Italian Peninsula
+Achaemenid Empire,influencedRegion,Iberian Peninsula
+Achaemenid Empire,influencedRegion,Balkan Peninsula
+Achaemenid Empire,influencedRegion,Arabian Peninsula
+Achaemenid Empire,influencedRegion,Mesoamerica
+Achaemenid Empire,influencedRegion,Andes Mountains
+Achaemenid Empire,influencedRegion,Central Asia
+Achaemenid Empire,influencedRegion,East Asia
+Achaemenid Empire,influencedRegion,South Asia
+Achaemenid Empire,influencedRegion,Western Europe
+Achaemenid Empire,influencedRegion,Eastern Europe
+Sumerian Civilization,influencedRegion,Nile Valley
+Sumerian Civilization,influencedRegion,Mesopotamia
+Sumerian Civilization,influencedRegion,Indus Valley
+Sumerian Civilization,influencedRegion,Yellow River Valley
+Sumerian Civilization,influencedRegion,Mediterranean Basin
+Sumerian Civilization,influencedRegion,Anatolia
+Sumerian Civilization,influencedRegion,Italian Peninsula
+Sumerian Civilization,influencedRegion,Iberian Peninsula
+Sumerian Civilization,influencedRegion,Balkan Peninsula
+Sumerian Civilization,influencedRegion,Arabian Peninsula
+Sumerian Civilization,influencedRegion,Mesoamerica
+Sumerian Civilization,influencedRegion,Andes Mountains
+Sumerian Civilization,influencedRegion,Central Asia
+Sumerian Civilization,influencedRegion,East Asia
+Sumerian Civilization,influencedRegion,South Asia
+Sumerian Civilization,influencedRegion,Western Europe
+Sumerian Civilization,influencedRegion,Eastern Europe
+Phoenician Civilization,influencedRegion,Nile Valley
+Phoenician Civilization,influencedRegion,Mesopotamia
+Phoenician Civilization,influencedRegion,Indus Valley
+Phoenician Civilization,influencedRegion,Yellow River Valley
+Phoenician Civilization,influencedRegion,Mediterranean Basin
+Phoenician Civilization,influencedRegion,Anatolia
+Phoenician Civilization,influencedRegion,Italian Peninsula
+Phoenician Civilization,influencedRegion,Iberian Peninsula
+Phoenician Civilization,influencedRegion,Balkan Peninsula
+Phoenician Civilization,influencedRegion,Arabian Peninsula
+Phoenician Civilization,influencedRegion,Mesoamerica
+Phoenician Civilization,influencedRegion,Andes Mountains
+Phoenician Civilization,influencedRegion,Central Asia
+Phoenician Civilization,influencedRegion,East Asia
+Phoenician Civilization,influencedRegion,South Asia
+Phoenician Civilization,influencedRegion,Western Europe
+Phoenician Civilization,influencedRegion,Eastern Europe
+Cleopatra,associatedWithCivilization,Ancient Egypt
+Cleopatra,livedInPeriod,Bronze Age
+Cleopatra,bornInRegion,Nile Valley
+Cleopatra,hasRole,king
+Julius Caesar,associatedWithCivilization,Ancient Greece
+Julius Caesar,livedInPeriod,Iron Age
+Julius Caesar,bornInRegion,Mesopotamia
+Julius Caesar,hasRole,queen
+Augustus,associatedWithCivilization,Roman Empire
+Augustus,livedInPeriod,Classical Antiquity
+Augustus,bornInRegion,Indus Valley
+Augustus,hasRole,emperor
+Genghis Khan,associatedWithCivilization,Byzantine Empire
+Genghis Khan,livedInPeriod,Middle Ages
+Genghis Khan,bornInRegion,Yellow River Valley
+Genghis Khan,hasRole,pharaoh
+Kublai Khan,associatedWithCivilization,Ottoman Empire
+Kublai Khan,livedInPeriod,Early Modern Period
+Kublai Khan,bornInRegion,Mediterranean Basin
+Kublai Khan,hasRole,politician
+Ashoka,associatedWithCivilization,Mughal Empire
+Ashoka,livedInPeriod,Modern Era
+Ashoka,bornInRegion,Anatolia
+Ashoka,hasRole,general
+Akbar,associatedWithCivilization,Maurya Empire
+Akbar,livedInPeriod,Bronze Age
+Akbar,bornInRegion,Italian Peninsula
+Akbar,hasRole,revolutionary
+Suleiman the Magnificent,associatedWithCivilization,Gupta Empire
+Suleiman the Magnificent,livedInPeriod,Iron Age
+Suleiman the Magnificent,bornInRegion,Iberian Peninsula
+Suleiman the Magnificent,hasRole,philosopher
+Alexander the Great,associatedWithCivilization,Han Dynasty
+Alexander the Great,livedInPeriod,Classical Antiquity
+Alexander the Great,bornInRegion,Balkan Peninsula
+Alexander the Great,hasRole,king
+Napoleon Bonaparte,associatedWithCivilization,Qing Dynasty
+Napoleon Bonaparte,livedInPeriod,Middle Ages
+Napoleon Bonaparte,bornInRegion,Arabian Peninsula
+Napoleon Bonaparte,hasRole,queen
+George Washington,associatedWithCivilization,Ming Dynasty
+George Washington,livedInPeriod,Early Modern Period
+George Washington,bornInRegion,Mesoamerica
+George Washington,hasRole,emperor
+Abraham Lincoln,associatedWithCivilization,Song Dynasty
+Abraham Lincoln,livedInPeriod,Modern Era
+Abraham Lincoln,bornInRegion,Andes Mountains
+Abraham Lincoln,hasRole,pharaoh
+Mahatma Gandhi,associatedWithCivilization,Aztec Empire
+Mahatma Gandhi,livedInPeriod,Bronze Age
+Mahatma Gandhi,bornInRegion,Central Asia
+Mahatma Gandhi,hasRole,politician
+Nelson Mandela,associatedWithCivilization,Inca Empire
+Nelson Mandela,livedInPeriod,Iron Age
+Nelson Mandela,bornInRegion,East Asia
+Nelson Mandela,hasRole,general
+Winston Churchill,associatedWithCivilization,Maya Civilization
+Winston Churchill,livedInPeriod,Classical Antiquity
+Winston Churchill,bornInRegion,South Asia
+Winston Churchill,hasRole,revolutionary
+Charlemagne,associatedWithCivilization,Babylonian Empire
+Charlemagne,livedInPeriod,Middle Ages
+Charlemagne,bornInRegion,Western Europe
+Charlemagne,hasRole,philosopher
+Cyrus the Great,associatedWithCivilization,Persian Empire
+Cyrus the Great,livedInPeriod,Early Modern Period
+Cyrus the Great,bornInRegion,Eastern Europe
+Cyrus the Great,hasRole,king
+Darius the Great,associatedWithCivilization,Achaemenid Empire
+Darius the Great,livedInPeriod,Modern Era
+Darius the Great,bornInRegion,Nile Valley
+Darius the Great,hasRole,queen
+Ramses II,associatedWithCivilization,Sumerian Civilization
+Ramses II,livedInPeriod,Bronze Age
+Ramses II,bornInRegion,Mesopotamia
+Ramses II,hasRole,emperor
+Pericles,associatedWithCivilization,Phoenician Civilization
+Pericles,livedInPeriod,Iron Age
+Pericles,bornInRegion,Indus Valley
+Pericles,hasRole,pharaoh
+Hammurabi,associatedWithCivilization,Ancient Egypt
+Hammurabi,livedInPeriod,Classical Antiquity
+Hammurabi,bornInRegion,Yellow River Valley
+Hammurabi,hasRole,politician
+Marcus Aurelius,associatedWithCivilization,Ancient Greece
+Marcus Aurelius,livedInPeriod,Middle Ages
+Marcus Aurelius,bornInRegion,Mediterranean Basin
+Marcus Aurelius,hasRole,general
+Constantine the Great,associatedWithCivilization,Roman Empire
+Constantine the Great,livedInPeriod,Early Modern Period
+Constantine the Great,bornInRegion,Anatolia
+Constantine the Great,hasRole,revolutionary
+Joan of Arc,associatedWithCivilization,Byzantine Empire
+Joan of Arc,livedInPeriod,Modern Era
+Joan of Arc,bornInRegion,Italian Peninsula
+Joan of Arc,hasRole,philosopher
+Tokugawa Ieyasu,associatedWithCivilization,Ottoman Empire
+Tokugawa Ieyasu,livedInPeriod,Bronze Age
+Tokugawa Ieyasu,bornInRegion,Iberian Peninsula
+Tokugawa Ieyasu,hasRole,king
+Queen Victoria,associatedWithCivilization,Mughal Empire
+Queen Victoria,livedInPeriod,Iron Age
+Queen Victoria,bornInRegion,Balkan Peninsula
+Queen Victoria,hasRole,queen
+Louis XIV,associatedWithCivilization,Maurya Empire
+Louis XIV,livedInPeriod,Classical Antiquity
+Louis XIV,bornInRegion,Arabian Peninsula
+Louis XIV,hasRole,emperor
+Peter the Great,associatedWithCivilization,Gupta Empire
+Peter the Great,livedInPeriod,Middle Ages
+Peter the Great,bornInRegion,Mesoamerica
+Peter the Great,hasRole,pharaoh
+Catherine the Great,associatedWithCivilization,Han Dynasty
+Catherine the Great,livedInPeriod,Early Modern Period
+Catherine the Great,bornInRegion,Andes Mountains
+Catherine the Great,hasRole,politician
+Simon Bolivar,associatedWithCivilization,Qing Dynasty
+Simon Bolivar,livedInPeriod,Modern Era
+Simon Bolivar,bornInRegion,Central Asia
+Simon Bolivar,hasRole,general
+Mustafa Kemal Ataturk,associatedWithCivilization,Ming Dynasty
+Mustafa Kemal Ataturk,livedInPeriod,Bronze Age
+Mustafa Kemal Ataturk,bornInRegion,East Asia
+Mustafa Kemal Ataturk,hasRole,revolutionary
+Ho Chi Minh,associatedWithCivilization,Song Dynasty
+Ho Chi Minh,livedInPeriod,Iron Age
+Ho Chi Minh,bornInRegion,South Asia
+Ho Chi Minh,hasRole,philosopher
+Chiang Kai-shek,associatedWithCivilization,Aztec Empire
+Chiang Kai-shek,livedInPeriod,Classical Antiquity
+Chiang Kai-shek,bornInRegion,Western Europe
+Chiang Kai-shek,hasRole,king
+Mao Zedong,associatedWithCivilization,Inca Empire
+Mao Zedong,livedInPeriod,Middle Ages
+Mao Zedong,bornInRegion,Eastern Europe
+Mao Zedong,hasRole,queen
+Sun Yat-sen,associatedWithCivilization,Maya Civilization
+Sun Yat-sen,livedInPeriod,Early Modern Period
+Sun Yat-sen,bornInRegion,Nile Valley
+Sun Yat-sen,hasRole,emperor
+Franklin D. Roosevelt,associatedWithCivilization,Babylonian Empire
+Franklin D. Roosevelt,livedInPeriod,Modern Era
+Franklin D. Roosevelt,bornInRegion,Mesopotamia
+Franklin D. Roosevelt,hasRole,pharaoh
+Theodore Roosevelt,associatedWithCivilization,Persian Empire
+Theodore Roosevelt,livedInPeriod,Bronze Age
+Theodore Roosevelt,bornInRegion,Indus Valley
+Theodore Roosevelt,hasRole,politician
+Adolf Hitler,associatedWithCivilization,Achaemenid Empire
+Adolf Hitler,livedInPeriod,Iron Age
+Adolf Hitler,bornInRegion,Yellow River Valley
+Adolf Hitler,hasRole,general
+Joseph Stalin,associatedWithCivilization,Sumerian Civilization
+Joseph Stalin,livedInPeriod,Classical Antiquity
+Joseph Stalin,bornInRegion,Mediterranean Basin
+Joseph Stalin,hasRole,revolutionary
+Leon Trotsky,associatedWithCivilization,Phoenician Civilization
+Leon Trotsky,livedInPeriod,Middle Ages
+Leon Trotsky,bornInRegion,Anatolia
+Leon Trotsky,hasRole,philosopher
+John F. Kennedy,associatedWithCivilization,Ancient Egypt
+John F. Kennedy,livedInPeriod,Early Modern Period
+John F. Kennedy,bornInRegion,Italian Peninsula
+John F. Kennedy,hasRole,king
+Martin Luther King Jr.,associatedWithCivilization,Ancient Greece
+Martin Luther King Jr.,livedInPeriod,Modern Era
+Martin Luther King Jr.,bornInRegion,Iberian Peninsula
+Martin Luther King Jr.,hasRole,queen
+Che Guevara,associatedWithCivilization,Roman Empire
+Che Guevara,livedInPeriod,Bronze Age
+Che Guevara,bornInRegion,Balkan Peninsula
+Che Guevara,hasRole,emperor
+Fidel Castro,associatedWithCivilization,Byzantine Empire
+Fidel Castro,livedInPeriod,Iron Age
+Fidel Castro,bornInRegion,Arabian Peninsula
+Fidel Castro,hasRole,pharaoh
+Imhotep,associatedWithCivilization,Ottoman Empire
+Imhotep,livedInPeriod,Classical Antiquity
+Imhotep,bornInRegion,Mesoamerica
+Imhotep,hasRole,politician
+Tutankhamun,associatedWithCivilization,Mughal Empire
+Tutankhamun,livedInPeriod,Middle Ages
+Tutankhamun,bornInRegion,Andes Mountains
+Tutankhamun,hasRole,general
+Nefertiti,associatedWithCivilization,Maurya Empire
+Nefertiti,livedInPeriod,Early Modern Period
+Nefertiti,bornInRegion,Central Asia
+Nefertiti,hasRole,revolutionary
+Hatshepsut,associatedWithCivilization,Gupta Empire
+Hatshepsut,livedInPeriod,Modern Era
+Hatshepsut,bornInRegion,East Asia
+Hatshepsut,hasRole,philosopher
+Battle of Waterloo,occurredInYear,1200
+Battle of Waterloo,occurredInRegion,Nile Valley
+Battle of Waterloo,belongsToPeriod,Bronze Age
+French Revolution,occurredInYear,1210
+French Revolution,occurredInRegion,Mesopotamia
+French Revolution,belongsToPeriod,Iron Age
+American Revolution,occurredInYear,1220
+American Revolution,occurredInRegion,Indus Valley
+American Revolution,belongsToPeriod,Classical Antiquity
+World War I,occurredInYear,1230
+World War I,occurredInRegion,Yellow River Valley
+World War I,belongsToPeriod,Middle Ages
+World War II,occurredInYear,1240
+World War II,occurredInRegion,Mediterranean Basin
+World War II,belongsToPeriod,Early Modern Period
+Fall of Constantinople,occurredInYear,1250
+Fall of Constantinople,occurredInRegion,Anatolia
+Fall of Constantinople,belongsToPeriod,Modern Era
+Discovery of America,occurredInYear,1260
+Discovery of America,occurredInRegion,Italian Peninsula
+Discovery of America,belongsToPeriod,Bronze Age
+Industrial Revolution,occurredInYear,1270
+Industrial Revolution,occurredInRegion,Iberian Peninsula
+Industrial Revolution,belongsToPeriod,Iron Age
+Fall of the Berlin Wall,occurredInYear,1280
+Fall of the Berlin Wall,occurredInRegion,Balkan Peninsula
+Fall of the Berlin Wall,belongsToPeriod,Classical Antiquity
+Russian Revolution,occurredInYear,1290
+Russian Revolution,occurredInRegion,Arabian Peninsula
+Russian Revolution,belongsToPeriod,Middle Ages
+Meiji Restoration,occurredInYear,1300
+Meiji Restoration,occurredInRegion,Mesoamerica
+Meiji Restoration,belongsToPeriod,Early Modern Period
+Unification of Germany,occurredInYear,1310
+Unification of Germany,occurredInRegion,Andes Mountains
+Unification of Germany,belongsToPeriod,Modern Era
+Unification of Italy,occurredInYear,1320
+Unification of Italy,occurredInRegion,Central Asia
+Unification of Italy,belongsToPeriod,Bronze Age
+Partition of India,occurredInYear,1330
+Partition of India,occurredInRegion,East Asia
+Partition of India,belongsToPeriod,Iron Age
+Signing of Magna Carta,occurredInYear,1340
+Signing of Magna Carta,occurredInRegion,South Asia
+Signing of Magna Carta,belongsToPeriod,Classical Antiquity
+Crusades,occurredInYear,1350
+Crusades,occurredInRegion,Western Europe
+Crusades,belongsToPeriod,Middle Ages
+Peloponnesian War,occurredInYear,1360
+Peloponnesian War,occurredInRegion,Eastern Europe
+Peloponnesian War,belongsToPeriod,Early Modern Period
+Punic Wars,occurredInYear,1370
+Punic Wars,occurredInRegion,Nile Valley
+Punic Wars,belongsToPeriod,Modern Era
+Hundred Years' War,occurredInYear,1380
+Hundred Years' War,occurredInRegion,Mesopotamia
+Hundred Years' War,belongsToPeriod,Bronze Age
+Thirty Years' War,occurredInYear,1390
+Thirty Years' War,occurredInRegion,Indus Valley
+Thirty Years' War,belongsToPeriod,Iron Age
+Opium Wars,occurredInYear,1400
+Opium Wars,occurredInRegion,Yellow River Valley
+Opium Wars,belongsToPeriod,Classical Antiquity
+Boxer Rebellion,occurredInYear,1410
+Boxer Rebellion,occurredInRegion,Mediterranean Basin
+Boxer Rebellion,belongsToPeriod,Middle Ages
+Taiping Rebellion,occurredInYear,1420
+Taiping Rebellion,occurredInRegion,Anatolia
+Taiping Rebellion,belongsToPeriod,Early Modern Period
+Great Depression,occurredInYear,1430
+Great Depression,occurredInRegion,Italian Peninsula
+Great Depression,belongsToPeriod,Modern Era
+Moon Landing,occurredInYear,1440
+Moon Landing,occurredInRegion,Iberian Peninsula
+Moon Landing,belongsToPeriod,Bronze Age
+Cuban Missile Crisis,occurredInYear,1450
+Cuban Missile Crisis,occurredInRegion,Balkan Peninsula
+Cuban Missile Crisis,belongsToPeriod,Iron Age
+Vietnam War,occurredInYear,1460
+Vietnam War,occurredInRegion,Arabian Peninsula
+Vietnam War,belongsToPeriod,Classical Antiquity
+Korean War,occurredInYear,1470
+Korean War,occurredInRegion,Mesoamerica
+Korean War,belongsToPeriod,Middle Ages
+Gulf War,occurredInYear,1480
+Gulf War,occurredInRegion,Andes Mountains
+Gulf War,belongsToPeriod,Early Modern Period
+Iraq War,occurredInYear,1490
+Iraq War,occurredInRegion,Central Asia
+Iraq War,belongsToPeriod,Modern Era
+Spanish Civil War,occurredInYear,1500
+Spanish Civil War,occurredInRegion,East Asia
+Spanish Civil War,belongsToPeriod,Bronze Age
+Nine Years' War,occurredInYear,1510
+Nine Years' War,occurredInRegion,South Asia
+Nine Years' War,belongsToPeriod,Iron Age
+Glorious Revolution,occurredInYear,1520
+Glorious Revolution,occurredInRegion,Western Europe
+Glorious Revolution,belongsToPeriod,Classical Antiquity
+English Civil War,occurredInYear,1530
+English Civil War,occurredInRegion,Eastern Europe
+English Civil War,belongsToPeriod,Middle Ages
+First Sino-Japanese War,occurredInYear,1540
+First Sino-Japanese War,occurredInRegion,Nile Valley
+First Sino-Japanese War,belongsToPeriod,Early Modern Period
+War of the Roses,occurredInYear,1550
+War of the Roses,occurredInRegion,Mesopotamia
+War of the Roses,belongsToPeriod,Modern Era
+American Civil War,occurredInYear,1560
+American Civil War,occurredInRegion,Indus Valley
+American Civil War,belongsToPeriod,Bronze Age
+Reign of Terror,occurredInYear,1570
+Reign of Terror,occurredInRegion,Yellow River Valley
+Reign of Terror,belongsToPeriod,Iron Age
+Storming of the Bastille,occurredInYear,1580
+Storming of the Bastille,occurredInRegion,Mediterranean Basin
+Storming of the Bastille,belongsToPeriod,Classical Antiquity
+Cleopatra,involvedIn,Battle of Waterloo
+Ashoka,involvedIn,Battle of Waterloo
+Julius Caesar,involvedIn,French Revolution
+Akbar,involvedIn,French Revolution
+Augustus,involvedIn,American Revolution
+Suleiman the Magnificent,involvedIn,American Revolution
+Genghis Khan,involvedIn,World War I
+Alexander the Great,involvedIn,World War I
+Kublai Khan,involvedIn,World War II
+Napoleon Bonaparte,involvedIn,World War II
+Ashoka,involvedIn,Fall of Constantinople
+George Washington,involvedIn,Fall of Constantinople
+Akbar,involvedIn,Discovery of America
+Abraham Lincoln,involvedIn,Discovery of America
+Suleiman the Magnificent,involvedIn,Industrial Revolution
+Mahatma Gandhi,involvedIn,Industrial Revolution
+Alexander the Great,involvedIn,Fall of the Berlin Wall
+Nelson Mandela,involvedIn,Fall of the Berlin Wall
+Napoleon Bonaparte,involvedIn,Russian Revolution
+Winston Churchill,involvedIn,Russian Revolution
+George Washington,involvedIn,Meiji Restoration
+Charlemagne,involvedIn,Meiji Restoration
+Abraham Lincoln,involvedIn,Unification of Germany
+Cyrus the Great,involvedIn,Unification of Germany
+Mahatma Gandhi,involvedIn,Unification of Italy
+Darius the Great,involvedIn,Unification of Italy
+Nelson Mandela,involvedIn,Partition of India
+Ramses II,involvedIn,Partition of India
+Winston Churchill,involvedIn,Signing of Magna Carta
+Pericles,involvedIn,Signing of Magna Carta
+Charlemagne,involvedIn,Crusades
+Hammurabi,involvedIn,Crusades
+Cyrus the Great,involvedIn,Peloponnesian War
+Marcus Aurelius,involvedIn,Peloponnesian War
+Darius the Great,involvedIn,Punic Wars
+Constantine the Great,involvedIn,Punic Wars
+Ramses II,involvedIn,Hundred Years' War
+Joan of Arc,involvedIn,Hundred Years' War
+Pericles,involvedIn,Thirty Years' War
+Tokugawa Ieyasu,involvedIn,Thirty Years' War
+Hammurabi,involvedIn,Opium Wars
+Queen Victoria,involvedIn,Opium Wars
+Marcus Aurelius,involvedIn,Boxer Rebellion
+Louis XIV,involvedIn,Boxer Rebellion
+Constantine the Great,involvedIn,Taiping Rebellion
+Peter the Great,involvedIn,Taiping Rebellion
+Joan of Arc,involvedIn,Great Depression
+Catherine the Great,involvedIn,Great Depression
+Tokugawa Ieyasu,involvedIn,Moon Landing
+Simon Bolivar,involvedIn,Moon Landing
+Queen Victoria,involvedIn,Cuban Missile Crisis
+Mustafa Kemal Ataturk,involvedIn,Cuban Missile Crisis
+Louis XIV,involvedIn,Vietnam War
+Ho Chi Minh,involvedIn,Vietnam War
+Peter the Great,involvedIn,Korean War
+Chiang Kai-shek,involvedIn,Korean War
+Catherine the Great,involvedIn,Gulf War
+Mao Zedong,involvedIn,Gulf War
+Simon Bolivar,involvedIn,Iraq War
+Sun Yat-sen,involvedIn,Iraq War
+Mustafa Kemal Ataturk,involvedIn,Spanish Civil War
+Franklin D. Roosevelt,involvedIn,Spanish Civil War
+Ho Chi Minh,involvedIn,Nine Years' War
+Theodore Roosevelt,involvedIn,Nine Years' War
+Chiang Kai-shek,involvedIn,Glorious Revolution
+Adolf Hitler,involvedIn,Glorious Revolution
+Mao Zedong,involvedIn,English Civil War
+Joseph Stalin,involvedIn,English Civil War
+Sun Yat-sen,involvedIn,First Sino-Japanese War
+Leon Trotsky,involvedIn,First Sino-Japanese War
+Franklin D. Roosevelt,involvedIn,War of the Roses
+John F. Kennedy,involvedIn,War of the Roses
+Theodore Roosevelt,involvedIn,American Civil War
+Martin Luther King Jr.,involvedIn,American Civil War
+Adolf Hitler,involvedIn,Reign of Terror
+Che Guevara,involvedIn,Reign of Terror
+Joseph Stalin,involvedIn,Storming of the Bastille
+Fidel Castro,involvedIn,Storming of the Bastille
