@@ -101,6 +101,17 @@ Being honest about what we'd fix with more time:
 - Taking only the first line of the output is a simple trick that works for short answers but would cut off anything that needs a longer response.
 - Chinese questions don't use retrieval, and this is where we scored lowest.
 
+## Ideas for improving it
+
+If we had more time, this is what we'd try next:
+
+- **Tighter RAG.** Right now we paste all 10 retrieved chunks into the prompt, and the input gets truncated at 412 tokens, so on long contexts the actual question can get cut off. Passing only the top 2-3 reranked chunks would fix that and also make generation faster. We'd also like to try hybrid retrieval (BM25 plus the bi-encoder) so exact keyword matches like names and dates aren't missed, and add retrieval for Chinese questions, since that's our weakest subject.
+- **Serving with vLLM.** We use plain Hugging Face `generate()` with manual batching. vLLM does continuous batching and PagedAttention, which should give much better throughput and lower latency on big batches. We'd need to check that it works with the competition setup, and we'd probably swap bitsandbytes 4-bit for an AWQ or GPTQ quantised model, since those are better supported there.
+- **Proper sampling settings.** We pass `temperature` and `top_p` to `generate()` without `do_sample=True`, so decoding is actually greedy. Either turning sampling on or removing those parameters would make the code match what we meant.
+- **A better maths path.** The regex + SymPy solver only handles standard phrasings. Letting the model write a short SymPy expression and executing it (tool calling) would cover a lot more algebra questions while still avoiding the model doing arithmetic itself.
+- **Use the difficulty classifier at inference time.** Easy questions could get a shorter prompt and fewer tokens, and only the hard ones would get the full RAG treatment. That would save latency where it doesn't cost accuracy.
+- **Speculative decoding.** A tiny draft model proposing tokens for Qwen to verify could speed up generation further.
+
 ## Team
 
 Built by the VIGO team for Huawei TechArena 2025.
